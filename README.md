@@ -1,4 +1,4 @@
-Credentials : 
+Credential : 
 TEST CANTEEN OWNER ID: canteenowner2@gmail.com
 TEST CANTEEN OWNER PASSWORD: test2password
 
